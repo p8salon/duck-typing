@@ -1,0 +1,2 @@
+# duck-typing
+learn go
